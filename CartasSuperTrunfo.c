@@ -7,7 +7,20 @@
 //Teste larissa
 
 int main() {
-    printf("Desafio Cartas Super Trunfo!\n");
+    int populacao;
+    int pontusturisticos;
+    float area;
+    float PIB;
+    char nomecidade;
+    char estado;
+    char codigocarta;
+
+    scanf("populacao");
+    
+    
+   
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
